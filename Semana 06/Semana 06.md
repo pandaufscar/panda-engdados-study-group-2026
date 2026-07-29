@@ -235,7 +235,7 @@ O volume `postgres_data` preserva os metadados do Airflow mesmo quando os contai
 
 Nesta prática, o objetivo é orquestrar um pipeline ETL simples com Airflow e executar o ambiente local com Docker.
 
-Os códigos de exemplo do pipeline (`pipeline_etl.py`) e da DAG (`pipeline_etl_dag.py`) estão disponíveis na pasta `códigos-exemplo`.
+Os códigos de exemplo do pipeline (`pipeline_etl.py`) e da DAG (`pipeline_etl_dag.py`) estão disponíveis na pasta `codigos-exemplo`.
 
 O pipeline deve estar organizado em um arquivo Python com três funções:
 
