@@ -124,7 +124,6 @@ A proposta do projeto é aplicar, em um repositório organizado, etapas como:
 
 - extração de dados a partir de arquivos, APIs ou outras fontes;
 - transformação, limpeza e validação dos dados;
-- persistência dos resultados;
 - persistência dos dados em PostgreSQL;
 - orquestração do pipeline com Apache Airflow;
 - tratamento de erros e logging;
