@@ -138,6 +138,7 @@ Outros componentes trabalhados durante o ciclo, como Docker, validações e logg
 |-----------|---------|-------------|
 | Adriano Tavares | Pipeline ETL Climabr | [climabr-pipeline](https://github.com/aatsac/climabr-pipeline) |
 | Annalice Fernandes dos Santos | Pipeline SP Trans | [sptrans-pipeline](https://github.com/Annalicefs/sptrans-pipeline) |
+| Antônio Adolfo Geraldino Bernardo | Câmbio em dia | [cotacao-br-pipeline](https://github.com/antonioagbernardo/cotacao-br-pipeline) |
 | Gabriela Guerra | Pipeline Biodiversidade | [pipeline-biodiversidade-gbif](https://github.com/hub-gabrielaguerra/pipeline-biodiversidade-gbif) |
 | Julia Tavares dos Santos | Pipeline Pokémon | [pokemon-pipeline](https://github.com/JuuJxp/pokemon-pipeline) |
 | Lucas Nacaguma | Pipeline de Monitoramento Meteorológico | [monitoramento-meteorologico](https://github.com/LucasNacaguma/monitoramento-meteorol-gico) |
