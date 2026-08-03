@@ -3,7 +3,7 @@
 Nesta semana, o objetivo é compreender a jornada do dado desde a sua captura nas aplicações operacionais até a sua estruturação para análises de negócios. A modelagem de dados não é uma ciência exata de tamanho único; ela muda drasticamente dependendo de **como** os dados serão consumidos. 
 
 Além da teoria estrutural, a prática consiste em desenhar modelos para um domínio de e-commerce utilizando "Diagramas como Código".
-
+ 
 ## Objetivos de aprendizagem
 
 - Diferenciar a arquitetura e os objetivos de sistemas OLTP e OLAP.
